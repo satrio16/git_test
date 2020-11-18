@@ -1,0 +1,1 @@
+This is Satrio's first git project!
